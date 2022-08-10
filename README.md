@@ -1,0 +1,2 @@
+# meilisearchadmin
+Meilisearch admin panel
