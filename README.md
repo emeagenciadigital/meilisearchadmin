@@ -14,7 +14,7 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 
 ## Try it Today (demo)
 
-You can use in the demo your Meiliaearch Admin Api Key or ours.
+In the Demo, you can use your Meilisearch Admin API Key or press continue without the API key to use ours. 
 
 Demo Limk using Meilisearch 0.27
 
