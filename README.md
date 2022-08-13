@@ -43,7 +43,7 @@ Meilisearch Admin Version is compatible with the following backend releases:
 
 ## Changelog
 
-### August 13 2022
+**August 13 2022**
 
 - Possibility to add geo filter and sortable attribute.
 
