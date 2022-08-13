@@ -86,7 +86,7 @@ You can submit issues and feature requests on this repository.
 
 ## F.A.Q
 
-**When and where will I receive download links**
+**When and where will I receive download links?**
 
 After the purchase, you will immediately (5min max) receive an email to the email address you used during the payment process. Remember to check spam. If you misspelled your email or did not receive it for any reason you can contact us with the payment information.
 
@@ -98,7 +98,7 @@ We don't give discounts and because you can use our demo and this is software we
 
 If for any reason you prefer us to install it we can do it for an extra of $50 USD. To proceed contact us.
 
-**Can you install Meilisearch backend for me**
+**Can you install Meilisearch backend for me?**
 
 Yes, we can install it on AWS of Digital Ocean for $50 USD 
 
