@@ -56,7 +56,7 @@ Almost because is incredibly cheap.
 
 - Not so long answer:
 
-We wanted to make it free as we ❤️ open source but developing great products cost and keeping them up to date while adding new functionalities cost more.
+We wanted to make it free as we ❤️ open source but developing great products is expensive and keeping them up to date while adding new features can cost even more.
 
 It became obvious that we had to monetize via sponsors, intrusive ads or sell it. 
 
