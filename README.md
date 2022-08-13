@@ -2,6 +2,8 @@
 
 The simplest and easiest way of managing all of your Meilisearch servers and indexes.
 
+## Benefits 
+
 - Inspired by Algolia UI/UX admin panel.
 - Visually use all Meilisearch APIs. 
 - No more need of postman 😎 to change settings.
