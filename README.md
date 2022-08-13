@@ -62,10 +62,11 @@ As we don't want Ads and its income could be very low we decided to charge only 
 ## Buy Now 
 When you purchase this is what you will get:
 
-- 1 year of free and unlimited updates 
-- Ability to download any version during your paid year. 
+- Download link of all currently available versions. 
+- 1 year of free and unlimited updates and upgrades including new versions. 
 
 Payment Links: 
+
 PayPal: link 
 Credit Card through stripe: link 
 Wompi Colombia: Link
