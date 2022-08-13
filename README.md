@@ -26,7 +26,6 @@ Link
 ### August to September 2022
 - [Planned] Search results shown with Google map.
 - [In Progress] Import documents from CSV, Excel, and JSON files directly from your browser.
-- [In Progress] Your idea. Submit it as a feature request on this repo. 
 
 ## Compatibility
 
