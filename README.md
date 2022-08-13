@@ -18,7 +18,7 @@ In the Demo, you can use your Meilisearch Admin API Key or press continue withou
 
 [Demo compatible with Meilisearch backend 0.27](https://027.meilisearchadmin.com)
 
-[Demo compatible with Meilisearch backend 0.28] (https://028.meilisearchadmin.com)
+[Demo compatible with Meilisearch backend 0.28](https://028.meilisearchadmin.com)
 
 ## Features Video
 
