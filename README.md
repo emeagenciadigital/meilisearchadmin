@@ -24,7 +24,7 @@ In the Demo, you can use your Meilisearch Admin API Key or press continue withou
 
 This is a quick video showcasing the main features. Turn your sound on.
 
-[[video]]
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 ## Roadmap
 
