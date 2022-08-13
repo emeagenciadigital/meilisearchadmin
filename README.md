@@ -76,7 +76,7 @@ Payment Links:
 
 - ¿When and where will I receive download links?
 
-After the purchase, you will immediately (5min max) receive an email to the email address you used during the payment process. Remember to check spam. If you misspelled your email or did not receive it for any reason you can check.our contact information at the end of this readme file.
+After the purchase, you will immediately (5min max) receive an email to the email address you used during the payment process. Remember to check spam. If you misspelled your email or did not receive it for any reason you can contact us with the payment information.
 
 - ¿Discounts and money-back guarantees?
 
