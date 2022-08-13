@@ -56,13 +56,13 @@ It became obvious that we had to monetize via sponsors, intrusive ads or sell it
 
 To support this product we need at least $2k to $3k USD a month.
 
-As we don't want Ads and its income could be very low we decided to charge only $79 USD. 
+As we don't want intrusive ads because its sucks and its hard to monetize we decided to charge only $79 USD. 
 
 
 ## Buy Now 
 When you purchase this is what you will get:
 
-- Download link of all currently available versions. 
+- Download link of all currently available versions with installation instructions in text and video. 
 - 1 year of free and unlimited updates and upgrades including new versions. 
 
 Payment Links: 
