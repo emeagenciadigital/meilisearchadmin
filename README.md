@@ -30,7 +30,10 @@ Link
 
 ## Compatibility
 
-Meilisearch Admin Version is compatible with the following backend releases.
+Meilisearch Admin Version is compatible with the following backend releases:
+
+*Check backend release on link
+
 - v1 for 0.27 backend
 - v2 for 0.28 backend
 
