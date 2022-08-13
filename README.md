@@ -66,7 +66,7 @@ As we don't want intrusive ads because its sucks and its hard to monetize we dec
 
 
 ## Buy Now 
-When you purchase this is what you will get:
+When you purchase, this is what you will get:
 
 - Download link of all currently available versions with installation instructions in text and video. 
 - 1 year of free and unlimited updates and upgrades including new versions. 
