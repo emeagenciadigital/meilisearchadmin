@@ -113,9 +113,9 @@ Once you download it you can use it as many times you like and install the amoun
 
 Yes, on every release we do unit and end-to-end testing. 
 
-- ¿Is it secure, do you store the APIs key or have access to our instance?
+- ¿Is it safe, do you store the APIs key or have access to our instance?
 
-Yes, it is completely secured, we don't have access to your Meilisearch server and we don't store on our side your Keys. All the information and configuration are on your side and on your environment variables depending your deployment method. 
+Yes, it is completely safe, we don't have access to your Meilisearch server and we don't store on our side your Keys. All the information and configuration are on your side and on your environment variables depending your deployment method. 
 
 ## Contact Me 
 
