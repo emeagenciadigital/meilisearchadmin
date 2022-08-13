@@ -24,12 +24,9 @@ Link
 ## Roadmap
 
 - August to September 2022
-
-⚪️ [Planned] Search results shown with Google map.
-
-⚪️ [In Progress] Import documents from CSV, Excel, and JSON files directly from your browser.
-
-⚪️ [In Progress] 
+-- [Planned] Search results shown with Google map.
+-- [In Progress] Import documents from CSV, Excel, and JSON files directly from your browser.
+-- [In Progress] 
 
 ## Compatibility
 
@@ -40,5 +37,4 @@ Meilisearch Admin Version is compatible with the following backend releases.
 ## Changelog
 
 - August 13 2022
-
-🟢 Possibility to add geo filtrate and sortable attributes.
+-- Possibility to add geo filtrate and sortable attributes.
