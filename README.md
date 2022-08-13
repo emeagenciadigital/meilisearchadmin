@@ -51,6 +51,7 @@ Meilisearch Admin Version is compatible with the following backend releases:
 ## ¿Is it free?
 
 - Short answer: 
+
 Almost because is incredibly cheap.
 
 - Not so long answer:
