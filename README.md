@@ -90,3 +90,6 @@ If for any reason you prefer us to install it we can do it for an extra of $50 U
 
 Yes, we can install it on AWS of Digital Ocean for $50 USD 
 
+- ¿Can I resell it?
+
+Once you download it you can use it as many times you like and install the amount of times you feel comfortable. But it's prohibited to resell it online or offline to others. If someone is going to buy it, it should be from us, this help us keep bringing innovation.
