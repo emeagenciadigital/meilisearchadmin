@@ -51,10 +51,21 @@ Almost because is incredibly cheap.
 - Not so long answer:
 
 We wanted to make it free as we ❤️ open source but developing great products cost and keeping them up to date while adding new functionalities cost more.
+
 It became obvious that we had to monetize via sponsors, intrusive ads or sell it. 
 
 To support this product we need at least $2k to $3k USD a month.
 
 As we don't want Ads and its income could be very low we decided to charge only $79 USD. 
 
-Almost because is incredibly cheap. For just $70usd you will have Meilisearch build. 
+
+## Buy Now 
+When you purchase this is what you will get:
+
+- 1 year of free and unlimited updates 
+- Ability to download any version during your paid year. 
+
+Payment Links: 
+PayPal: link 
+Credit Card through stripe: link 
+Wompi Colombia: Link
