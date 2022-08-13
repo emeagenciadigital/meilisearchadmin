@@ -15,7 +15,7 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 ## Try it Today (demo)
 
 > **Note**
-> Demo will be available after August 17 2022. Add it to your calendar.
+> Demo will be available after August 18 2022. Add it to your calendar.
 
 In the Demo, you can use your Meilisearch Admin API Key or press continue without the API key to use ours. 
 
@@ -71,7 +71,7 @@ As we don't want intrusive ads because its sucks and its hard to monetize we dec
 ## Buy Now 
 
 > **Warning**
-> Purchase will be available after August 17 2022. Add it to your calendar.
+> Purchase will be available after August 18 2022. Add it to your calendar.
 
 When you purchase, this is what you will get:
 
