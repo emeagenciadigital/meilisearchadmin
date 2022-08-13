@@ -1,4 +1,4 @@
-# meilisearchadmin
+# Meilisearch Admin
 
 The simplest and easiest way of managing all of your Meilisearch servers and indexes.
 
