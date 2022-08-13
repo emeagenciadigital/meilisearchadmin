@@ -6,7 +6,7 @@ The simplest and easiest way of managing all of your Meilisearch servers and ind
 
 - Inspired by Algolia UI/UX admin panel.
 - Visually use all Meilisearch APIs. 
-- No more need of postman 😎 to change settings.
+- No more need of postman 😎.
 - No installation is needed just deploy as any static site or open index.html on your local environment.
 - Includes intelligent search client that auto handles filters, sorts and all the other index settings for rapid testing and searching.
 - Create and edit documents visually. Including JSON documents with multiple child levels.  
@@ -16,10 +16,14 @@ The simplest and easiest way of managing all of your Meilisearch servers and ind
 
 Just use your Admin Api Key or ours.
 
-Link 
+Demo Limk using Meilisearch 0.27
+Demo Link using Meiliaearch 0.28
 
-## Features 
+## Features Video
 
+This is a quick video showcasing the main features. 
+
+[[video]]
 
 ## Roadmap
 
