@@ -41,3 +41,20 @@ Meilisearch Admin Version is compatible with the following backend releases:
 
 ### August 13 2022
 -- Possibility to add geo filtrate and sortable attributes.
+
+
+## ¿Is it free?
+
+- Short answer: 
+Almost because is incredibly cheap.
+
+- Not so long answer:
+
+We wanted to make it free as we ❤️ open source but developing great products cost and keeping them up to date while adding new functionalities cost more.
+It became obvious that we had to monetize via sponsors, intrusive ads or sell it. 
+
+To support this product we need at least $2k to $3k USD a month.
+
+As we don't want Ads and its income could be very low we decided to charge only $79 USD. 
+
+Almost because is incredibly cheap. For just $70usd you will have Meilisearch build. 
