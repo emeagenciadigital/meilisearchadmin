@@ -71,7 +71,7 @@ As we don't want intrusive ads because its sucks and its hard to monetize we dec
 
 ## Buy Now 
 
-> **warning**
+> **Warning**
 > Purchase will be available after August 17 2022
 
 When you purchase, this is what you will get:
