@@ -17,6 +17,7 @@ The simplest and easiest way of managing all of your Meilisearch servers and ind
 You can use in the demo your Meiliaearch Admin Api Key or ours.
 
 Demo Limk using Meilisearch 0.27
+
 Demo Link using Meiliaearch 0.28
 
 ## Features Video
@@ -101,3 +102,15 @@ Yes, we can install it on AWS of Digital Ocean for $50 USD
 - ¿Can I resell it?
 
 Once you download it you can use it as many times you like and install the amount of times you feel comfortable. But it's prohibited to resell it online or offline to others. If someone is going to buy it, it should be from us, this help us keep bringing innovation.
+
+- ¿Who created Meilisearch Admin?
+
+2 senior react and nextJs developers and 1 senior UI/UX designer. 
+
+- ¿Is it ready for enterprise and production use?
+
+Yes, on every release we do unit and end-to-end testing. 
+
+## Contact Me 
+
+Discord: danielevz#2686
