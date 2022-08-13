@@ -23,7 +23,11 @@ Link
 
 ## Roadmap
 
-- Possibility to add geo filtrate and sortable attribute.
-- Search shown with Google map.
+🟢 [Done] Possibility to add geo filtrate and sortable attributes.
+⚪️ [Soon] Search results shown with Google map.
 
-## Compability
+## Compatibility
+
+Meilisearch Admin Version is compatible with the following backend releases.
+- v1 for 0.27 backend
+- v2 for 0.28 backend
