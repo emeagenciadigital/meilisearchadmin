@@ -14,6 +14,9 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 
 ## Try it Today (demo)
 
+> **Note**
+> Demo will be available after August 17 2022
+
 In the Demo, you can use your Meilisearch Admin API Key or press continue without the API key to use ours. 
 
 [Demo compatible with Meilisearch backend 0.27](https://027.meilisearchadmin.com)
