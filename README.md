@@ -74,9 +74,9 @@ When you purchase, this is what you will get:
 
 Payment Links: 
 
-- PayPal: link 
-- Credit Card through stripe: link 
-- Wompi Colombia: Link
+- [Pay Pal](https://paypal.com)
+- [Credit Card through stripe](https://stripe.com)
+- [Wompi Colombia](https://wompi.com)
 
 
 ## Contribution 
