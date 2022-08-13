@@ -28,7 +28,7 @@ This is a quick video showcasing the main features. Turn your sound on.
 
 ## Roadmap
 
-### August to September 2022
+**August to September 2022**
 - [Planned] Search results shown with Google map.
 - [In Progress] Import documents from CSV, Excel, and JSON files directly from your browser.
 
