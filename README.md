@@ -25,6 +25,9 @@ In the Demo, you can use your Meilisearch Admin API Key or press continue withou
 
 ## Features Video
 
+> **Warning**
+> This is a placeholder video the official video will be available after August 18 2022. Add it to your calendar.
+
 This is a quick video showcasing the main features. Turn your sound on.
 
 [![Watch the video](https://img.youtube.com/vi/SJl2UWfy1nk/maxresdefault.jpg)](https://youtu.be/SJl2UWfy1nk)
