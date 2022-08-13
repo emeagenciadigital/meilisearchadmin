@@ -21,7 +21,7 @@ Demo Link using Meiliaearch 0.28
 
 ## Features Video
 
-This is a quick video showcasing the main features. 
+This is a quick video showcasing the main features. Turn your sound on.
 
 [[video]]
 
