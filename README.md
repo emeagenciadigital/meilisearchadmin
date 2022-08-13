@@ -90,11 +90,11 @@ You can submit issues and feature requests on this repository.
 
 After the purchase, you will immediately (5min max) receive an email to the email address you used during the payment process. Remember to check spam. If you misspelled your email or did not receive it for any reason you can contact us with the payment information.
 
-**Discounts and money-back guarantees**
+**Do you offer discounts and money-back guarantees?**
 
 We don't give discounts and because you can use our demo and this is software we don't give money-back guarantee. We assure you it will work flawlessly and installation is extremely easy.
 
-**Can you install Meilisearch Admin for me**
+**Can you install Meilisearch Admin for me?**
 
 If for any reason you prefer us to install it we can do it for an extra of $50 USD. To proceed contact us.
 
