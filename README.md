@@ -68,7 +68,11 @@ It became obvious that we had to monetize via sponsors, intrusive ads or sell it
 
 To support this product we need at least $2k to $3k USD a month.
 
-As we don't want intrusive ads because its sucks and its hard to monetize we decided to charge only $79 USD. 
+As we don't want intrusive ads because its sucks and its hard to monetize we decided to charge: 
+
+- For 1 server $29 USD.
+- Unlimited servers $79 USD. 
+- Source Code $2,500 USD.
 
 
 ## Buy Now 
