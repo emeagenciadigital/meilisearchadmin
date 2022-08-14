@@ -92,6 +92,11 @@ Payment Links:
 - [Credit Card through stripe](https://stripe.com)
 - [Wompi Colombia](https://wompi.com)
 
+| **1 Server** | **Unlimited Servers** | **Source Code** |
+|:---:|:---:|:---:|
+| $29 USD | $79 USD | $2,500 USD |
+| Credit Card | Credit Card | Credit Card |
+| PayPal | PayPal | PayPal |
 
 ## Contribution 
 
