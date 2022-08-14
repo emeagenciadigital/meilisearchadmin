@@ -8,7 +8,7 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 - Visually use all Meilisearch APIs. 
 - No more need of postman 😎.
 - No installation is needed just deploy as any static site or open index.html on your local environment.
-- Includes intelligent search client that auto handles filters, sorts and all the other index settings for rapid testing and searching.
+- Includes intelligent search client that auto loads filterAttributes, sortAttributes and all the other index settings for rapid testing and searching.
 - Create and edit documents visually. Including JSON documents with multiple child levels.  
 
 
