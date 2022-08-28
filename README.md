@@ -12,6 +12,7 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 - No installation is needed just deploy as any static site or open index.html on your local environment.
 - Includes intelligent search client that auto loads filterAttributes, sortAttributes and all the other index settings for rapid testing and searching.
 - Create and edit documents visually. Including JSON documents with multiple child levels.  
+- Simply test geosearch filters and sort.
 
 
 ## Try it Today (demo)
