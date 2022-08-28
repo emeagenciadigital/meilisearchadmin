@@ -34,8 +34,6 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 
 Meilisearch Admin Version is compatible with the following backend releases:
 
-*Check backend release on link
-
 - v1 for 0.27 backend
 - v2 for 0.28 backend
 
