@@ -17,7 +17,7 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 > **Note**
 > Demo: Dont delete demo indexes or change configurations. You can try adding your own index and playing with it.
 
-[See demo](https://demo.meilisearchadmin.com/)
+[Open demo](https://demo.meilisearchadmin.com/)
 
 ## Features Video
 
