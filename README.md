@@ -71,8 +71,8 @@ As we don't want intrusive ads because its sucks and its hard to monetize we dec
 
 When you purchase, this is what you will get:
 
-- Download link of all currently available versions (0.27 and 0.28).
-- Installation instructions. Takes 5 min to setup. 
+- Google Drive Download link for all currently available versions (0.27 and 0.28). 
+- Installation instructions.
 - 1 year of free and unlimited updates and upgrades including new versions. 
 
 Payment Links: 
@@ -81,7 +81,7 @@ Payment Links:
 | **1 Server and index** | **Unlimited Servers and indexes** | **Source Code** |
 |:---:|:---:|:---:|
 | $29 USD | $79 USD | $2,500 USD |
-| [Buy Now](https://stripe.com) | [Buy Now](https://stripe.com) | [Buy Now](https://stripe.com) |
+| [Buy Now](https://buy.stripe.com/aEU7t484g9Wf0X6dQQ) | [Buy Now](https://buy.stripe.com/cN24gS2JW6K321aeUV) | [Buy Now](https://buy.stripe.com/6oE14G4S40lFdJSbIK) |
 
 
 ## Contribution 
