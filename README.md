@@ -77,8 +77,6 @@ When you purchase, this is what you will get:
 
 Payment Links: 
 
-- [Pay Pal](https://paypal.com)
-- [Credit Card through stripe](https://stripe.com)
 
 | **1 Server and index** | **Unlimited Servers and indexes** | **Source Code** |
 |:---:|:---:|:---:|
