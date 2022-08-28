@@ -15,13 +15,10 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 ## Try it Today (demo)
 
 > **Note**
-> Demo will be available after August 18 2022. Add it to your calendar.
+> Demo: Please dont delete demo data sets or change their configurations. You can try adding your own index and playing with it.
 
-In the Demo, you can use your Meilisearch Admin API Key or press continue without the API key to use ours. 
 
-[Demo compatible with Meilisearch backend 0.27](https://027.meilisearchadmin.com)
-
-[Demo compatible with Meilisearch backend 0.28](https://028.meilisearchadmin.com)
+[Compatible with 0.27 and 0.28](https://demo.meilisearchadmin.com/)
 
 ## Features Video
 
