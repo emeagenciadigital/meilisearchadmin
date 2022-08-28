@@ -1,5 +1,7 @@
 # Meilisearch Admin
 
+First released 28 august 2022. ¡Please ⭐️!
+
 The simplest and easiest way of visually managing all of your Meilisearch servers and indexes.
 
 ## Benefits 
@@ -51,7 +53,7 @@ Almost because is incredibly cheap, it starts at $29USD for lifetime.
 
 - Not so long answer:
 
-We wanted to make it free as we ❤️ open source but developing great products is expensive and keeping them up to date while adding new features can cost even more.
+We wanted to make it free as we ❤️ open source but developing great products is expensive and keeping them up to date while adding new features can cost even more. If we get to 3k ⭐️ we will make it fee.
 
 It became obvious that we had to monetize via sponsors or sell it. 
 
