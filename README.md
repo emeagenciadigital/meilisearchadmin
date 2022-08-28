@@ -47,7 +47,7 @@ Meilisearch Admin Version is compatible with the following backend releases:
 
 - Short answer: 
 
-Almost because is incredibly cheap. $30USD for lifetime.
+Almost because is incredibly cheap, it starts at $29USD for lifetime.
 
 - Not so long answer:
 
@@ -80,11 +80,11 @@ Payment Links:
 - [Pay Pal](https://paypal.com)
 - [Credit Card through stripe](https://stripe.com)
 
-| **1 Server** | **Unlimited Servers** | **Source Code** |
+| **1 Server and index** | **Unlimited Servers and indexes** | **Source Code** |
 |:---:|:---:|:---:|
 | $29 USD | $79 USD | $2,500 USD |
-| Credit Card | Credit Card | Credit Card |
-| PayPal | PayPal | PayPal |
+| [Buy Now](https://stripe.com) | [Buy Now](https://stripe.com) | [Buy Now](https://stripe.com) |
+
 
 ## Contribution 
 
