@@ -53,32 +53,31 @@ Almost because is incredibly cheap, it starts at $29USD for lifetime.
 
 We wanted to make it free as we ❤️ open source but developing great products is expensive and keeping them up to date while adding new features can cost even more.
 
-It became obvious that we had to monetize via sponsors, intrusive ads or sell it. 
+It became obvious that we had to monetize via sponsors or sell it. 
 
-To support this product we need at least $2k to $3k USD a month.
+To support this product we need at least $2k USD a month.
 
-As we don't want intrusive ads because its sucks and its hard to monetize we decided to charge: 
+So we decided to only charge you one time and give it for lifetime:
 
-- For 1 server $29 USD.
-- Unlimited servers $79 USD. 
-- Source Code $2,500 USD.
+- Connect with 1 server and 1 index $29 USD.
+- Connect to unlimited servers and indexes $79 USD. 
+- Get the source code $2,500 USD.
 
 
 ## Buy Now 
 
-> **Warning**
-> Purchase will be available after September 2 2022. Add it to your calendar.
-
-When you purchase, this is what you will get:
+When you purchase, this is what you will get inmediatly:
 
 - Google Drive Download link for all currently available versions (0.27 and 0.28). 
-- Installation instructions.
+- Easy installation instructions.
 - 1 year of free and unlimited updates and upgrades including new versions. 
+
+*As soon as the payment is completed you will be redirected to Google Drive Link that contains everything.
 
 Payment Links: 
 
 
-| **1 Server and index** | **Unlimited Servers and indexes** | **Source Code** |
+| **Connect to 1 Server and 1 Index** | **Connect to Unlimited Servers and Indexes** | **Source Code** |
 |:---:|:---:|:---:|
 | $29 USD | $79 USD | $2,500 USD |
 | [Buy Now](https://buy.stripe.com/aEU7t484g9Wf0X6dQQ) | [Buy Now](https://buy.stripe.com/cN24gS2JW6K321aeUV) | [Buy Now](https://buy.stripe.com/6oE14G4S40lFdJSbIK) |
