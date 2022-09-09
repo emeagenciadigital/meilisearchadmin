@@ -18,7 +18,7 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 ## Try it Today (demo)
 
 > **Warning**
-> Demo: Dont delete demo indexes or change configurations. You can try adding your own index and playing with it.
+> Demo: you will only be able to search and see all configurations.
 
 [Open demo](https://demo.meilisearchadmin.com/)
 
@@ -39,26 +39,18 @@ Meilisearch Admin Version is compatible with the following backend releases:
 
 ## Changelog
 
+**September 9 2022**
+
+- Add documents from the admin copy pasting your JSON.
+
 **August 13 2022**
 
-- Possibility to add geo filter and sortable attribute.
+- Add geo filter and geo sort.
 
 
 ## ¿Is it free?
 
-- Short answer: 
-
-Almost because is incredibly cheap, it starts at $29USD for lifetime.
-
-- Not so long answer:
-
-We wanted to make it free as we ❤️ open source but developing great products is expensive and keeping them up to date while adding new features can cost even more. If we get to 3k ⭐️ we will make it fee.
-
-It became obvious that we had to monetize via sponsors or sell it. 
-
-To support this product we need at least $2k USD a month.
-
-So we decided to only charge you one time and give it for lifetime:
+Almost because is incredibly cheap and for lifetime.
 
 - Connect with 1 server and 1 index $29 USD.
 - Connect to unlimited servers and indexes $79 USD. 
