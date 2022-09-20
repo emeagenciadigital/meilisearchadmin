@@ -117,4 +117,4 @@ Yes, it is completely safe, we don't have access to your Meilisearch server and 
 
 ## Contact Me 
 
-Discord: danielevz#2686
+WhatsApp : +573013393783
