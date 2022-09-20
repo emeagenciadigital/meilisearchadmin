@@ -117,4 +117,4 @@ Yes, it is completely safe, we don't have access to your Meilisearch server and 
 
 ## Contact Me 
 
-WhatsApp : +573013393783
+[WhatsApp +573013393783](https://api.whatsapp.com/send?phone=573013393783&text=Hi%20,%20I%E2%80%99m%20interest%20in%20Meilisearch%20Admin)
