@@ -24,18 +24,12 @@ The simplest and easiest way of visually managing all of your Meilisearch server
 
 
 
-## Roadmap
-
-**August to September 2022**
-- [Planned] Search results shown with Google map.
-- [DONE] Import documents from JSON directly from your browser.
 
 ## Compatibility
 
 Meilisearch Admin Version is compatible with the following backend releases:
 
-- v1 for 0.27 backend
-- v2 for 0.28 backend
+- 0.27 - 1
 
 ## Changelog
 
@@ -47,12 +41,16 @@ Meilisearch Admin Version is compatible with the following backend releases:
 
 - Add geo filter and geo sort.
 
+**August 13 2022**
+
+- Added compability with version 1 backend.
+
 
 ## ¿Is it free?
 
 Almost because is incredibly cheap and for lifetime.
 
-- Connect with 1 server and 1 index $29 USD.
+- Connect with 1 server and unlimited indexes $29 USD.
 - Connect to unlimited servers and indexes $79 USD. 
 - Get the source code $2,500 USD.
 
@@ -61,7 +59,7 @@ Almost because is incredibly cheap and for lifetime.
 
 When you purchase, this is what you will get inmediatly:
 
-- Google Drive Download link for all currently available versions (0.27 and 0.28). 
+- Google Drive Download link.
 - Easy installation instructions.
 - 1 year of free and unlimited updates and upgrades including new versions. 
 
@@ -70,7 +68,7 @@ When you purchase, this is what you will get inmediatly:
 Payment Links: 
 
 
-| **Connect to 1 Server and 1 Index** | **Connect to Unlimited Servers and Indexes** | **Source Code** |
+| **Connect to 1 Server and unlimited Indexes** | **Connect to Unlimited Servers and Indexes** | **Source Code** |
 |:---:|:---:|:---:|
 | $29 USD | $79 USD | $2,500 USD |
 | [Buy Now](https://buy.stripe.com/aEU7t484g9Wf0X6dQQ) | [Buy Now](https://buy.stripe.com/cN24gS2JW6K321aeUV) | [Buy Now](https://buy.stripe.com/6oE14G4S40lFdJSbIK) |
