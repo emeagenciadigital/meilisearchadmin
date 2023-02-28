@@ -2,7 +2,7 @@
 
 First released 28 august 2022. ¡Please ⭐️!
 
-The simplest and easiest way of visually managing all of your Meilisearch servers and indexes.
+The simplest and easiest way of visually managing all of your Meilisearch servers and indexes. [Open demo](https://demo.meilisearchadmin.com/)
 
 ## Benefits 
 
