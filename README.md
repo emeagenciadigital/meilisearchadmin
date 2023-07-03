@@ -32,7 +32,8 @@ Meilisearch Admin Version is compatible with the following backend releases:
 - v0.27
 - v0.28
 - v0.30
-- v1.x
+- v1.1
+- v1.2
 
 ## Changelog
 
